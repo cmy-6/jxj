@@ -23,4 +23,5 @@ void main ()
 	int x=Binary_Search(number,count,KEY);
 	cout<<"mid= "<<x<<endl;
 	cout<<number[x]<<endl;
+	//test vi
 }
